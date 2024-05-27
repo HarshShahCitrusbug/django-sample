@@ -45,7 +45,7 @@ This Django project is designed to provide user management functionalities with 
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:HarshShahCitrusbug/flask-sample.git
+   git@github.com:HarshShahCitrusbug/django-sample.git
    cd user_management_project
    ```
 
